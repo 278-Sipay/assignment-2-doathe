@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kMXDhm+Pn+/rMgIn5UjbJEHAwRWkEIVFCN4C3VXzhtA=",
+  "Source": "SipayApi.Service",
+  "BasePath": "_content/SipayApi.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Service\\SipayApi.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
+        "projectName": "SipayApi.Base",
+        "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
+        "packagesPath": "C:\\Users\\nisat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nisat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
+        "projectName": "SipayApi.Data",
+        "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
+        "packagesPath": "C:\\Users\\nisat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nisat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {
+                "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj",
+        "projectName": "SipayApi.Schema",
+        "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj",
+        "packagesPath": "C:\\Users\\nisat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Schema\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nisat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj": {
+                "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Service\\SipayApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Service\\SipayApi.Service.csproj",
+        "projectName": "SipayApi.Service",
+        "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Service\\SipayApi.Service.csproj",
+        "packagesPath": "C:\\Users\\nisat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nisat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj": {
+                "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj"
+              },
+              "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj": {
+                "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Schema\\SipayApi.Schema.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.49.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

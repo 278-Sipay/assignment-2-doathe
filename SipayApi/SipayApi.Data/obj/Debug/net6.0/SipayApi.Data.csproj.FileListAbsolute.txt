@@ -1,0 +1,17 @@
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.deps.json
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.runtimeconfig.json
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.pdb
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\bin\Debug\net6.0\SipayApi.Base.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\bin\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.csproj.AssemblyReference.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.AssemblyInfoInputs.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.AssemblyInfo.cs
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.csproj.CopyComplete
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\refint\SipayApi.Data.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.pdb
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.genruntimeconfig.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Data\obj\Debug\net6.0\ref\SipayApi.Data.dll

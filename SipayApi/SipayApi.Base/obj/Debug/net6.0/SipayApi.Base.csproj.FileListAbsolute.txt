@@ -1,0 +1,12 @@
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.deps.json
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.csproj.AssemblyReference.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.AssemblyInfoInputs.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.AssemblyInfo.cs
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\refint\SipayApi.Base.dll
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\nisat\Desktop\Sipay .Net Bootcamp\Projeler\Lesson\pk-sipy\SipayApi\SipayApi.Base\obj\Debug\net6.0\ref\SipayApi.Base.dll
