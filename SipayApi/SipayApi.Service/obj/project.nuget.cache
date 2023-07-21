@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIyOK8bpl9pNnSJa6JQNo3S8aKmA+Ee5E+q9PjoKJBB1JS0Jtv4jH//gn73NcaQjtb9E/5CNS1nk+hoGDlJCyA==",
+  "dgSpecHash": "ZQ2MIGqWqTyPToaW26nYBzoZQv/QDmJF1LHwLKp4AFh1G3FJobYF3FGRiy5oa8ZY2Z+4Uu4deThM2J/8QbT+zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Service\\SipayApi.Service.csproj",
+  "projectFilePath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Service\\SipayApi.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nisat\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\nisat\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

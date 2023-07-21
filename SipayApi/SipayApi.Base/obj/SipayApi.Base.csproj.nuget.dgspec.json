@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {}
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {
+    "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
+        "projectUniqueName": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
         "projectName": "SipayApi.Base",
-        "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
+        "projectPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Base\\SipayApi.Base.csproj",
         "packagesPath": "C:\\Users\\nisat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Base\\obj\\",
+        "outputPath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nisat\\AppData\\Roaming\\NuGet\\NuGet.Config",

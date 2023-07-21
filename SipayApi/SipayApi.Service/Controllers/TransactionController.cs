@@ -55,14 +55,19 @@ public class TransactionController : ControllerBase
     }
 
     [HttpGet("GetByParameter")]
-    public ApiResponse<List<TransactionResponse>> GetByParameter([FromQuery] int? accountNumber, [FromQuery] decimal? minAmountCredit, [FromQuery] decimal? maxAmountCredit, [FromQuery] decimal? minAmountDebit, [FromQuery] decimal? maxAmountDebit, [FromQuery] string? description, [FromQuery] DateTime? beginDate, [FromQuery] DateTime? endDate, [FromQuery] string? referenceNumber)
+    public ApiResponse<List<TransactionResponse>> GetByParameter([FromQuery] TransactionFilterModel filterModel)
     {
-        var entityList = repository.GetByParameter(entity => entity.AccountNumber == accountNumber || 
-                                                   entity.CreditAmount >= minAmountCredit && entity.CreditAmount <= maxAmountCredit || 
-                                                   entity.DebitAmount >= minAmountDebit && entity.DebitAmount <= maxAmountDebit || 
-                                                   entity.Description.Contains(description) || 
-                                                   entity.TransactionDate >= beginDate && entity.TransactionDate <= endDate || 
-                                                   entity.ReferenceNumber == referenceNumber).ToList();
+        // Sends the expressions generated with the filterModel.
+        var entityList = repository.GetByParameter(entity =>
+                                                   (entity.AccountNumber == filterModel.AccountNumber || filterModel.AccountNumber == null) &&
+                                                   (entity.CreditAmount >= filterModel.MinAmountCredit || filterModel.MinAmountCredit == null) &&
+                                                   (entity.CreditAmount <= filterModel.MaxAmountCredit || filterModel.MaxAmountCredit == null) &&
+                                                   (entity.DebitAmount >= filterModel.MinAmountDebit || filterModel.MinAmountDebit == null) &&
+                                                   (entity.DebitAmount <= filterModel.MaxAmountDebit || filterModel.MaxAmountDebit == null) &&
+                                                   (entity.Description.Contains(filterModel.Description) || filterModel.Description == null) &&
+                                                   (entity.TransactionDate >= filterModel.BeginDate || filterModel.BeginDate == null) &&
+                                                   (entity.TransactionDate <= filterModel.EndDate || filterModel.EndDate == null) &&
+                                                   (entity.ReferenceNumber == filterModel.ReferenceNumber || filterModel.ReferenceNumber == null)).ToList();
 
         var mapped = mapper.Map<List<Transaction>, List<TransactionResponse>>(entityList);
         return new ApiResponse<List<TransactionResponse>>(mapped);

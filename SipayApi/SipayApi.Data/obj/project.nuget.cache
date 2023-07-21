@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTHvX7J//HIIFMyaTeI/2ftiMwfd7ENMmyJiA0uARari/MrkgopKgBST5osTOlTWdoNt4CqVYYwBgzVLac5mRA==",
+  "dgSpecHash": "5CZGcbfUNXt0l4c08ngA0Y64cnG69lIUHjnyPW+H+OHIddzQ/SLEjrhGaXCnGvoc5QSd6v9wriW+ASj0E+M8+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Projeler\\Lesson\\pk-sipy\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
+  "projectFilePath": "C:\\Users\\nisat\\Desktop\\Sipay .Net Bootcamp\\Lessons\\Lesson2\\assignment-2-doathe\\SipayApi\\SipayApi.Data\\SipayApi.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nisat\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\nisat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
